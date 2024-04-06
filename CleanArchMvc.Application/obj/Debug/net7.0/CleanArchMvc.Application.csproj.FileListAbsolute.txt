@@ -1,0 +1,15 @@
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.deps.json
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\refint\CleanArchMvc.Application.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\ref\CleanArchMvc.Application.dll
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.CopyComplete

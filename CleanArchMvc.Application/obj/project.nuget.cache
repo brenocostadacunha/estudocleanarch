@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sH85KlAheTsCt74qpJKsjuznwABkE9L82awkEgg+iVCo3CpEMKSpDu5/xj7OlTSh6WfLNty9gCm6C1m2xTzn5g==",
+  "success": true,
+  "projectFilePath": "C:\\ws-cursoCleanDDD\\projetoMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

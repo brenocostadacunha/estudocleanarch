@@ -1,0 +1,17 @@
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.deps.json
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\refint\CleanArchMvc.Infra.Data.dll
+C:\ws-cursocleanddd\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\ref\CleanArchMvc.Infra.Data.dll
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+C:\ws-cursoCleanDDD\projetoMvc\CleanArchMvc.Infra.data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
